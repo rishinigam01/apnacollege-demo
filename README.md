@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first Git repository
 <br>
-Author - Rishi (apnacollege)
+Author - Rishi (apna college)
